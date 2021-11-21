@@ -1,0 +1,16 @@
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\bin\Debug\net5.0\TreeTutorial.exe
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\bin\Debug\net5.0\TreeTutorial.deps.json
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\bin\Debug\net5.0\TreeTutorial.runtimeconfig.json
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\bin\Debug\net5.0\TreeTutorial.runtimeconfig.dev.json
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\bin\Debug\net5.0\TreeTutorial.dll
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\bin\Debug\net5.0\ref\TreeTutorial.dll
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\bin\Debug\net5.0\TreeTutorial.pdb
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\TreeTutorial.csproj.AssemblyReference.cache
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\TreeTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\TreeTutorial.AssemblyInfoInputs.cache
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\TreeTutorial.AssemblyInfo.cs
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\TreeTutorial.csproj.CoreCompileInputs.cache
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\TreeTutorial.dll
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\ref\TreeTutorial.dll
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\TreeTutorial.pdb
+D:\ProgrammingShit\TreeTutorial\TreeTutorial\obj\Debug\net5.0\TreeTutorial.genruntimeconfig.cache
